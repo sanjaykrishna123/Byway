@@ -27,6 +27,11 @@ import {ReactComponent as Quotes} from '../assets/quotes.svg';
 import {ReactComponent as Comments_profile} from '../assets/span-7.svg';
 import {ReactComponent as LeftArrow} from '../assets/short-arrow-left.svg';
 import {ReactComponent as RightWhiteArrow} from '../assets/short-arrow-right.svg';
+import {ReactComponent as Facebook} from '../assets/facebook.svg';
+import {ReactComponent as Github} from '../assets/github.svg';
+import {ReactComponent as Google} from '../assets/google.svg';
+import {ReactComponent as Twitter} from '../assets/X.svg';
+import {ReactComponent as Microsoft} from '../assets/microsoft.svg';
 import bg from '../assets/bg.jpg';
 import courseImage from '../assets/img.jpg';
 import socialMedia from '../assets/socialMedia.png';
@@ -314,7 +319,38 @@ function Details(){
 
                             <div className="bottomContainer">
                                 <h4>Share</h4>
-                                <img src={socialMedia} alt="social-media" className="socialMedia" />
+                                
+                                <div className="socialMediaContainer">
+                                    <a href="https://www.facebook.com/" target="blank">
+                                        <div className="iconContainer">
+                                            <Facebook width={30} height={30} />
+                                        </div>
+                                    </a>
+            
+                                    <a href="https://github.com/" target="blank">
+                                        <div className="iconContainer">
+                                            <Github width={30} height={30} />
+                                        </div>
+                                    </a>
+            
+                                    <a href="https://google.com/" target="blank">
+                                        <div className="iconContainer">
+                                            <Google width={30} height={30} />
+                                        </div>
+                                    </a>
+            
+                                    <a href="https://x.com/" target="blank">
+                                        <div className="iconContainer">
+                                            <Twitter width={30} height={30} />
+                                        </div>
+                                    </a>
+            
+                                    <a href="https://www.microsoft.com/en-in/" target="blank">
+                                        <div className="iconContainer">
+                                            <Microsoft width={30} height={30} />
+                                        </div>
+                                    </a>
+                                </div>
                             </div>
                         </div>
                     </div>
