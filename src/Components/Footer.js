@@ -2,7 +2,11 @@ import React from "react";
 import './style.css';
 
 import byway from '../assets/byway.png';
-import socialMedia from '../assets/socialMedia.png';
+import {ReactComponent as Facebook} from '../assets/facebook.svg';
+import {ReactComponent as Github} from '../assets/github.svg';
+import {ReactComponent as Google} from '../assets/google.svg';
+import {ReactComponent as Twitter} from '../assets/X.svg';
+import {ReactComponent as Microsoft} from '../assets/microsoft.svg';
 
 function Footer(){
     return(
@@ -45,7 +49,37 @@ function Footer(){
                     <a href="#">Tel: +(123) 456-7890</a>
                     <a href="#">Mail: bywayedu@webkul.in</a>
 
-                    <img alt="socialMedia" src={socialMedia} className="socialMedia" />
+                    <div className="socialMediaContainer">
+                        <a href="https://www.facebook.com/" target="blank">
+                            <div className="iconContainer">
+                                <Facebook width={30} height={30} />
+                            </div>
+                        </a>
+
+                        <a href="https://github.com/" target="blank">
+                            <div className="iconContainer">
+                                <Github width={30} height={30} />
+                            </div>
+                        </a>
+
+                        <a href="https://google.com/" target="blank">
+                            <div className="iconContainer">
+                                <Google width={30} height={30} />
+                            </div>
+                        </a>
+
+                        <a href="https://x.com/" target="blank">
+                            <div className="iconContainer">
+                                <Twitter width={30} height={30} />
+                            </div>
+                        </a>
+
+                        <a href="https://www.microsoft.com/en-in/" target="blank">
+                            <div className="iconContainer">
+                                <Microsoft width={30} height={30} />
+                            </div>
+                        </a>
+                    </div>
                 </div>
             </section>
         </footer>
