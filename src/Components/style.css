@@ -24,7 +24,7 @@ header .forLogo{
     text-decoration: none;
 }
 header .forLogo h1{
-    font-family: 'Inter';
+    font-family: Inter;
     font-weight: 500;
     font-size: 16px;
     line-height: 100%;
@@ -50,7 +50,7 @@ header ul li .logIn{
     cursor: pointer;
 }
 header ul li .logIn p{
-    font-family: 'Inter';
+    font-family: Inter;
     font-weight: 500;
     font-size: 14px;
     line-height: 20px;
@@ -70,7 +70,7 @@ header ul li .signUp{
     cursor: pointer;
 }
 header ul li .signUp p{
-    font-family: 'Inter';
+    font-family: Inter;
     font-weight: 500;
     font-size: 14px;
     line-height: 20px;
@@ -95,14 +95,14 @@ header ul li .signUp:hover p{
     margin: auto 0;
 }
 #spotlight .topContainer .left h1{
-    font-family: 'Inter';
+    font-family: Inter;
     font-weight: 700;
     font-size: 40px;
     line-height: 120%;
     color: #0F172A;
 }
 #spotlight .topContainer .left p{
-    font-family: 'Inter';
+    font-family: Inter;
     font-weight: 400;
     font-size: 16px;
     line-height: 160%;
@@ -115,7 +115,7 @@ header ul li .signUp:hover p{
     border-radius: 8px;
     padding: 10px 24px;
     background-color: #3B82F6;
-    font-family: 'Inter';
+    font-family: Inter;
     font-weight: 500;
     font-size: 14px;
     line-height: 160%;
@@ -277,7 +277,7 @@ header ul li .signUp:hover p{
     margin-left: 0px;
 }
 #spotlight .topContainer .right .communityContainer p{
-    font-family: 'Inter';
+    font-family: Inter;
     font-weight: 600;
     font-size: 12px;
     line-height: 100%;
@@ -302,13 +302,13 @@ header ul li .signUp:hover p{
     padding-right: 0px;
 }
 #main .spotlightBottomContainer .eachContainer h2{
-    font-family: 'Inter';
+    font-family: Inter;
     font-weight: 600;
     font-size: 32px;
     line-height: 130%;
 }
 #main .spotlightBottomContainer .eachContainer p{
-    font-family: 'Inter';
+    font-family: Inter;
     font-weight: 400;
     font-size: 14px;
     line-height: 150%;
@@ -320,13 +320,13 @@ header ul li .signUp:hover p{
     margin-top: 50px;
 }
 .titleContainer .title{
-    font-family: 'Inter';
+    font-family: Inter;
     font-weight: 600;
     font-size: 24px;
     line-height: 140%;
 }
 .titleContainer .seeAll{
-    font-family: 'Inter';
+    font-family: Inter;
     font-weight: 500;
     font-size: 14px;
     line-height: 160%;
@@ -358,7 +358,7 @@ header ul li .signUp:hover p{
     margin: 0px auto;
 }
 #categories .itemsContainer .category .textContainer h4{
-    font-family: 'Inter';
+    font-family: Inter;
     font-weight: 600;
     font-size: 20px;
     line-height: 150%;
@@ -366,7 +366,7 @@ header ul li .signUp:hover p{
     margin: 10px 0 15px;
 }
 #categories .itemsContainer .category .textContainer p{
-    font-family: 'Inter';
+    font-family: Inter;
     font-weight: 400;
     font-size: 16px;
     line-height: 160%;
@@ -384,14 +384,14 @@ header ul li .signUp:hover p{
     margin-top: 20px;
 }
 #courses .itemsContainer .course .textContainer h2{
-    font-family: 'Inter';
+    font-family: Inter;
     font-weight: 600;
     font-size: 18px;
     line-height: 160%;
     color: #0F172A;
 }
 #courses .itemsContainer .course .textContainer .designer{
-    font-family: 'Inter';
+    font-family: Inter;
     font-weight: 400;
     font-size: 14px;
     line-height: 150%;
@@ -403,7 +403,7 @@ header ul li .signUp:hover p{
     margin: 5px 0;
 }
 #courses .itemsContainer .course .textContainer .ratingContainer span{
-    font-family: 'Inter';
+    font-family: Inter;
     font-weight: 600;
     font-size: 12px;
     line-height: 100%;
@@ -411,14 +411,14 @@ header ul li .signUp:hover p{
     margin-left: 10px;
 }
 #courses .itemsContainer .course .textContainer .extraDetails{
-    font-family: 'Inter';
+    font-family: Inter;
     font-weight: 400;
     font-size: 14px;
     line-height: 150%;
     color: #334155;
 }
 #courses .itemsContainer .course .textContainer .price{
-    font-family: 'Inter';
+    font-family: Inter;
     font-weight: 600;
     font-size: 20px;
     line-height: 150%;
@@ -437,14 +437,14 @@ header ul li .signUp:hover p{
     margin: 15px 0;
 }
 #instructors .itemsContainer .instructorContainer .textContainer .profileContainer h2{
-    font-family: 'Inter';
+    font-family: Inter;
     font-weight: 600;
     font-size: 18px;
     line-height: 160%;
     color: #0F172A;
 }
 #instructors .itemsContainer .instructorContainer .textContainer .profileContainer span{
-    font-family: 'Inter';
+    font-family: Inter;
     font-weight: 400;
     font-size: 14px;
     line-height: 150%;
@@ -464,7 +464,7 @@ header ul li .signUp:hover p{
     align-items: center;
 }
 #instructors .itemsContainer .instructorContainer .textContainer .extraDetails .ratingsContainer .rating{
-    font-family: 'Inter';
+    font-family: Inter;
     font-weight: 600;
     font-size: 12px;
     line-height: 100%;
@@ -472,7 +472,7 @@ header ul li .signUp:hover p{
     margin-left: 5px;
 }
 #instructors .itemsContainer .instructorContainer .textContainer .extraDetails .students{
-    font-family: 'Inter';
+    font-family: Inter;
     font-weight: 600;
     font-size: 12px;
     line-height: 100%;
@@ -490,7 +490,7 @@ header ul li .signUp:hover p{
     align-items: center;
 }
 #comments .commentsTopContainer .commentsTitle{
-    font-family: 'Inter';
+    font-family: Inter;
     font-weight: 600;
     font-size: 24px;
     line-height: 140%;
@@ -527,7 +527,7 @@ header ul li .signUp:hover p{
     box-shadow: 0px 0px 8px 0px #3B82F61F;
 }
 #comments .card p.comment{
-    font-family: 'Inter';
+    font-family: Inter;
     font-weight: 400;
     font-size: 16px;
     line-height: 160%;
@@ -541,14 +541,14 @@ header ul li .signUp:hover p{
     margin-left: 10px;
 }
 #comments .card .profileContainer .userContainer h4{
-    font-family: 'Inter';
+    font-family: Inter;
     font-weight: 600;
     font-size: 18px;
     line-height: 160%;
     color: #000;
 }
 #comments .card .profileContainer .userContainer p{
-    font-family: 'Inter';
+    font-family: Inter;
     font-weight: 400;
     font-size: 14px;
     line-height: 150%;
@@ -577,14 +577,14 @@ header ul li .signUp:hover p{
     height: 385px;
 }
 #journey .firstContainer .textContainer h4{
-    font-family: 'Inter';
+    font-family: Inter;
     font-weight: 600;
     font-size: 20px;
     line-height: 150%;
     color: #000;
 }
 #journey .firstContainer .textContainer p{
-    font-family: 'Inter';
+    font-family: Inter;
     font-weight: 400;
     font-size: 16px;
     line-height: 160%;
@@ -599,7 +599,7 @@ header ul li .signUp:hover p{
     justify-content: center;
     align-items: center;
     height: 48px;
-    font-family: 'Inter';
+    font-family: Inter;
     font-weight: 500;
     font-size: 14px;
     line-height: 160%;
@@ -632,14 +632,14 @@ footer .rowContainer h1 a img{
     height: 40px;
 }
 footer .rowContainer p{
-    font-family: 'Inter';
+    font-family: Inter;
     font-weight: 400;
     font-size: 14px;
     line-height: 150%;
     color: #CBD5E1;
 }
 footer .rowContainer h1{
-    font-family: 'Inter';
+    font-family: Inter;
     font-weight: 600;
     font-size: 18px;
     line-height: 160%;
@@ -647,17 +647,27 @@ footer .rowContainer h1{
 }
 footer .rowContainer a{
     text-decoration: none;
-    font-family: 'Inter';
+    font-family: Inter;
     font-weight: 500;
     font-size: 14px;
     line-height: 160%;
     color: #CBD5E1;
     margin-top: 10px;
 }
-footer .rowContainer img.socialMedia{
-    width: 296px;
-    height: 40px;
+footer .rowContainer .socialMediaContainer{
+    display: flex;
+    align-items: center;
+    gap: 30px;
     margin-top: 20px;
+}
+footer .rowContainer .socialMediaContainer .iconContainer{
+    width: 45px;
+    height: 45px;
+    background-color: #fff;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 @media(max-width: 1440px){
@@ -806,6 +816,15 @@ footer .rowContainer img.socialMedia{
         width: 280px;
         height: 190px;
     }
+    footer .rowContainer .socialMediaContainer{
+        gap: 20px;
+    }
+}
+
+@media(max-width: 320px){
+    footer .rowContainer .socialMediaContainer{
+        gap: 10px;
+    }
 }
 
 
@@ -820,7 +839,7 @@ header ul li .profileContainer{
     cursor: pointer;
 }
 header ul li .profileContainer h1{
-    font-family: 'Inter';
+    font-family: Inter;
     font-weight: 500;
     font-size: 16px;
     line-height: 100%;
@@ -845,7 +864,7 @@ header ul li .profileContainer h1{
 }
 #main .mainContainer .left .pages a{
     text-decoration: none;
-    font-family: 'Inter';
+    font-family: Inter;
     font-weight: 400;
     font-size: 14px;
     line-height: 150%;
@@ -856,21 +875,21 @@ header ul li .profileContainer h1{
     width: 15px;
 }
 #main .mainContainer .left .pages p{
-    font-family: 'Inter';
+    font-family: Inter;
     font-weight: 400;
     font-size: 14px;
     line-height: 150%;
     color: #2563EB;
 }
 #main .mainContainer .left .courseDetails h1{
-    font-family: 'Inter';
+    font-family: Inter;
     font-weight: 700;
     font-size: 40px;
     line-height: 140%;
     color: #0F172A;
 }
 #main .mainContainer .left .courseDetails p{
-    font-family: 'Inter';
+    font-family: Inter;
     font-weight: 400;
     font-size: 16px;
     line-height: 160%;
@@ -886,7 +905,7 @@ header ul li .profileContainer h1{
     align-items: center;
 }
 #main .mainContainer .left .courseDetails .extraContainer .additionalInfo .ratingsContainer span{
-    font-family: 'Poppins';
+    font-family: Poppins;
     font-weight: 500;
     font-size: 16px;
     line-height: 120%;
@@ -894,7 +913,7 @@ header ul li .profileContainer h1{
     margin-right: 5px;
 }
 #main .mainContainer .left .courseDetails .extraContainer .additionalInfo .ratingsContainer .rating{
-    font-family: 'Inter';
+    font-family: Inter;
     font-weight: 400;
     font-size: 14px;
     line-height: 150%;
@@ -907,7 +926,7 @@ header ul li .profileContainer h1{
     transform: rotate(90deg);
 }
 #main .mainContainer .left .courseDetails .extraContainer .additionalInfo .otherDetails{
-    font-family: 'Inter';
+    font-family: Inter;
     font-weight: 400;
     font-size: 14px;
     line-height: 150%;
@@ -924,7 +943,7 @@ header ul li .profileContainer h1{
     margin-right: 10px;
 }
 #main .mainContainer .left .courseDetails .extraContainer .designerContainer p{
-    font-family: 'Inter';
+    font-family: Inter;
     font-weight: 400;
     font-size: 14px;
     line-height: 150%;
@@ -939,7 +958,7 @@ header ul li .profileContainer h1{
     align-items: center;
 }
 #main .mainContainer .left .courseDetails .extraContainer .languageContainer p{
-    font-family: 'Inter';
+    font-family: Inter;
     font-weight: 400;
     font-size: 14px;
     line-height: 150%;
@@ -970,14 +989,14 @@ header ul li .profileContainer h1{
     gap: 15px;
 }
 #main .mainContainer .right .anotherContainer .topContainer .rateContainer h2.originalRate{
-    font-family: 'Inter';
+    font-family: Inter;
     font-weight: 600;
     font-size: 24px;
     line-height: 140%;
     color: #0F172A;
 }
 #main .mainContainer .right .anotherContainer .topContainer .rateContainer span{
-    font-family: 'Inter';
+    font-family: Inter;
     font-weight: 600;
     font-size: 18px;
     line-height: 160%;
@@ -985,7 +1004,7 @@ header ul li .profileContainer h1{
     text-decoration-line: line-through;
 }
 #main .mainContainer .right .anotherContainer .topContainer .rateContainer h2.discountRate{
-    font-family: 'Inter';
+    font-family: Inter;
     font-weight: 600;
     font-size: 20px;
     line-height: 150%;
@@ -1005,7 +1024,7 @@ header ul li .profileContainer h1{
     border: none;
     background-color: #020617;
     color: #fff;
-    font-family: 'Inter';
+    font-family: Inter;
     font-weight: 500;
     font-size: 14px;
     line-height: 160%;
@@ -1036,15 +1055,27 @@ header ul li .profileContainer h1{
     padding: 0 25px;
 }
 #main .mainContainer .right .anotherContainer .bottomContainer h4{
-    font-family: 'Inter';
+    font-family: Inter;
     font-weight: 500;
     font-size: 16px;
     line-height: 160%;
     color: #0F172A;
 }
-#main .mainContainer .right .anotherContainer .bottomContainer .socialMedia{
-    width: 304px;
+#main .mainContainer .right .anotherContainer .bottomContainer .socialMediaContainer{
     margin-top: 15px;
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+#main .mainContainer .right .anotherContainer .bottomContainer .socialMediaContainer .iconContainer{
+    width: 45px;
+    height: 45px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #fff;
+    border-radius: 50%;
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
 }
 #tabsContainer{
     width: 100%;
@@ -1072,7 +1103,7 @@ header ul li .profileContainer h1{
     cursor: default;
 }
 #tabsContainer .tabsContainer .tab p{
-    font-family: 'Inter';
+    font-family: Inter;
     font-weight: 400;
     font-size: 14px;
     line-height: 150%;
@@ -1094,7 +1125,7 @@ header ul li .profileContainer h1{
     margin-bottom: 30px;
 }
 #tabsContainer .descriptionTab .eachContainer h1{
-    font-family: 'Inter';
+    font-family: Inter;
     font-weight: 600;
     font-size: 20px;
     line-height: 150%;
@@ -1102,7 +1133,7 @@ header ul li .profileContainer h1{
     margin-bottom: 5px;
 }
 #tabsContainer .descriptionTab .eachContainer p{
-    font-family: 'Inter';
+    font-family: Inter;
     font-weight: 400;
     font-size: 16px;
     line-height: 160%;
@@ -1116,7 +1147,7 @@ header ul li .profileContainer h1{
     display: block;
 }
 #tabsContainer .instructorTab h1{
-    font-family: 'Inter';
+    font-family: Inter;
     font-weight: 600;
     font-size: 20px;
     line-height: 150%;
@@ -1124,7 +1155,7 @@ header ul li .profileContainer h1{
     margin-bottom: 25px;
 }
 #tabsContainer .instructorTab .name{
-    font-family: 'Inter';
+    font-family: Inter;
     font-weight: 600;
     font-size: 20px;
     line-height: 150%;
@@ -1132,7 +1163,7 @@ header ul li .profileContainer h1{
     text-decoration: none;
 }
 #tabsContainer .instructorTab .designation{
-    font-family: 'Inter';
+    font-family: Inter;
     font-weight: 400;
     font-size: 16px;
     line-height: 160%;
@@ -1156,14 +1187,14 @@ header ul li .profileContainer h1{
     margin-top: 8px;
 }
 #tabsContainer .instructorTab .profile .eachContainer p{
-    font-family: 'Inter';
+    font-family: Inter;
     font-weight: 400;
     font-size: 14px;
     line-height: 150%;
     color: #0F172A;
 }
 #tabsContainer .instructorTab .description{
-    font-family: 'Inter';
+    font-family: Inter;
     font-weight: 400;
     font-size: 16px;
     line-height: 160%;
@@ -1178,7 +1209,7 @@ header ul li .profileContainer h1{
     display: block;
 }
 #tabsContainer .syllabusTab h1.title{
-    font-family: 'Inter';
+    font-family: Inter;
     font-weight: 600;
     font-size: 20px;
     line-height: 150%;
@@ -1207,7 +1238,7 @@ header ul li .profileContainer h1{
     gap: 16px;
 }
 #tabsContainer .syllabusTab .allSyllabuses .syllabusContainer .syllabusTitleContainer h1{
-    font-family: 'Inter';
+    font-family: Inter;
     font-weight: 600;
     font-size: 18px;
     line-height: 160%;
@@ -1219,7 +1250,7 @@ header ul li .profileContainer h1{
     gap: 16px;
 }
 #tabsContainer .syllabusTab .allSyllabuses .syllabusContainer .details p{
-    font-family: 'Inter';
+    font-family: Inter;
     font-weight: 400;
     font-size: 14px;
     line-height: 150%;
@@ -1229,7 +1260,7 @@ header ul li .profileContainer h1{
     width: 100%;
 }
 #tabsContainer .reviewsTab h1.title{
-    font-family: 'Inter';
+    font-family: Inter;
     font-weight: 600;
     font-size: 20px;
     line-height: 150%;
@@ -1252,14 +1283,14 @@ header ul li .profileContainer h1{
     gap: 3px;
 }
 #tabsContainer .reviewsTab .forFlex .left .totalRatings .rating h2{
-    font-family: 'Inter';
+    font-family: Inter;
     font-weight: 600;
     font-size: 20px;
     line-height: 140%;
     color: #0F172A;
 }
 #tabsContainer .reviewsTab .forFlex .left .totalRatings p{
-    font-family: 'Inter';
+    font-family: Inter;
     font-weight: 500;
     font-size: 14px;
     line-height: 20px;
@@ -1281,7 +1312,7 @@ header ul li .profileContainer h1{
     align-items: center;
 }
 #tabsContainer .reviewsTab .forFlex .left .allRatings .eachRow span{
-    font-family: 'Poppins';
+    font-family: Poppins;
     font-weight: 400;
     font-size: 14px;
     line-height: 120%;
@@ -1309,7 +1340,7 @@ header ul li .profileContainer h1{
     float: left;
 }
 #tabsContainer .reviewsTab .forFlex .right .allReviews .reviewContainer .reviewer h5{
-    font-family: 'Inter';
+    font-family: Inter;
     font-weight: 600;
     font-size: 18px;
     line-height: 160%;
@@ -1331,21 +1362,21 @@ header ul li .profileContainer h1{
     gap: 4px;
 }
 #tabsContainer .reviewsTab .forFlex .right .allReviews .reviewContainer .content .extraDetails .rating h5{
-    font-family: 'Inter';
+    font-family: Inter;
     font-weight: 600;
     font-size: 18px;
     line-height: 160%;
     color: #0F172A;
 }
 #tabsContainer .reviewsTab .forFlex .right .allReviews .reviewContainer .content .extraDetails p{
-    font-family: 'Inter';
+    font-family: Inter;
     font-weight: 400;
     font-size: 14px;
     line-height: 150%;
     color: #334155;
 }
 #tabsContainer .reviewsTab .forFlex .right .allReviews .reviewContainer .content p{
-    font-family: 'Inter';
+    font-family: Inter;
     font-weight: 400;
     font-size: 16px;
     line-height: 160%;
@@ -1359,7 +1390,7 @@ header ul li .profileContainer h1{
     border: 1px solid #0F172A;
     padding: 10px 24px;
     background-color: #fff;
-    font-family: 'Inter';
+    font-family: Inter;
     font-weight: 500;
     font-size: 14px;
     line-height: 160%;
